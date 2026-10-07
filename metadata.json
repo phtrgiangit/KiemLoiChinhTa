@@ -1,0 +1,6 @@
+{
+  "name": "FaunaPedia - Bách Khoa Động Vật AI",
+  "description": "Ứng dụng tra cứu thông tin chi tiết về các loài động vật bằng Gemini AI, tích hợp phân loại học, hiện trạng bảo tồn và hình ảnh chân thực.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
